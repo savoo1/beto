@@ -1,0 +1,16 @@
+<svg id="icon-table-games" xmlns="http://www.w3.org/2000/svg" width="24.611" height="26.81" viewBox="0 0 24.611 26.81">
+  <path id="Path_1075" data-name="Path 1075" d="M45.611,6.753v13.3a1.711,1.711,0,0,1-.976,1.545L34.043,26.642a1.713,1.713,0,0,1-1.474,0L21.976,21.6A1.711,1.711,0,0,1,21,20.055V6.753a1.712,1.712,0,0,1,.976-1.545L32.569.166a1.715,1.715,0,0,1,1.474,0L44.635,5.209a1.712,1.712,0,0,1,.976,1.545Z" transform="translate(-21 0.001)" fill="#e53935"/>
+  <path id="Path_1076" data-name="Path 1076" d="M253.374,5.809a1.7,1.7,0,0,0-.691-.6L242.09.166a1.714,1.714,0,0,0-1.474,0L240.544.2l10.52,5.008a1.712,1.712,0,0,1,.976,1.545v13.3a1.711,1.711,0,0,1-.976,1.545l-10.52,5.008.073.035a1.713,1.713,0,0,0,1.474,0L252.683,21.6a1.711,1.711,0,0,0,.976-1.545V6.753a1.7,1.7,0,0,0-.285-.945Z" transform="translate(-229.048 0.001)" fill="#d32f2f"/>
+  <path id="Path_1077" data-name="Path 1077" d="M33.305,116.669v15.277a1.709,1.709,0,0,1-.736-.167l-10.593-5.043A1.711,1.711,0,0,1,21,125.192v-13.3a1.7,1.7,0,0,1,.285-.945Z" transform="translate(-21 -105.137)" fill="#f44336"/>
+  <path id="Path_1078" data-name="Path 1078" d="M268.305,111.891v13.3a1.712,1.712,0,0,1-.958,1.536l-.018.009-10.593,5.042a1.711,1.711,0,0,1-.737.167V116.669l12.021-5.723A1.7,1.7,0,0,1,268.305,111.891Z" transform="translate(-243.694 -105.137)" fill="#d32f2f"/>
+  <path id="Path_1079" data-name="Path 1079" d="M268.021,110.946l-1.361.648a1.705,1.705,0,0,1,.027.3v13.3a1.712,1.712,0,0,1-.958,1.536l-.018.009L256,131.36v.586a1.712,1.712,0,0,0,.737-.167l10.593-5.042.018-.009a1.712,1.712,0,0,0,.958-1.536v-13.3A1.7,1.7,0,0,0,268.021,110.946Z" transform="translate(-243.694 -105.137)" fill="#c62828"/>
+  <g id="Group_44" data-name="Group 44" transform="translate(1.909 1.954)">
+    <ellipse id="Ellipse_32" data-name="Ellipse 32" cx="1.4" cy="1.032" rx="1.4" ry="1.032" transform="matrix(0.134, -0.991, 0.991, 0.134, 16.187, 15.347)" fill="#f1f1f1"/>
+    <ellipse id="Ellipse_33" data-name="Ellipse 33" cx="1.027" cy="1.4" rx="1.027" ry="1.4" transform="translate(5.875 10.49) rotate(-3.151)" fill="#f1f1f1"/>
+    <ellipse id="Ellipse_34" data-name="Ellipse 34" cx="1.027" cy="1.4" rx="1.027" ry="1.4" transform="translate(0 15.571) rotate(-3.151)" fill="#f1f1f1"/>
+    <ellipse id="Ellipse_35" data-name="Ellipse 35" cx="1.4" cy="1.027" rx="1.4" ry="1.027" transform="translate(3.978 2.553) rotate(-3.151)" fill="#f1f1f1"/>
+    <ellipse id="Ellipse_36" data-name="Ellipse 36" cx="1.4" cy="1.027" rx="1.4" ry="1.027" transform="translate(8.827 0.154) rotate(-3.151)" fill="#f1f1f1"/>
+    <ellipse id="Ellipse_37" data-name="Ellipse 37" cx="1.4" cy="1.027" rx="1.4" ry="1.027" transform="translate(13.907 2.719) rotate(-3.151)" fill="#f1f1f1"/>
+    <ellipse id="Ellipse_38" data-name="Ellipse 38" cx="1.4" cy="1.027" rx="1.4" ry="1.027" transform="translate(9.172 4.947) rotate(-3.151)" fill="#f1f1f1"/>
+  </g>
+</svg>

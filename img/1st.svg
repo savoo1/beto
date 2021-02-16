@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51.805" height="52.626" viewBox="0 0 51.805 52.626">
+  <g id="Group_525" data-name="Group 525" transform="translate(-52 -379)">
+    <g id="card-corner-rating" transform="translate(52 379)">
+      <path id="card-corner-rating-2" data-name="card-corner-rating" d="M12.78,0H51.8L0,52.626V12.864C0,5.9,4.688,0,12.78,0Z" fill="#a10011"/>
+    </g>
+    <g id="Group_338" data-name="Group 338" transform="translate(57.23 382.985)">
+      <text id="_" data-name="#" transform="translate(14.728 8.026)" fill="#fff" font-size="10.369" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="0">#</tspan></text>
+      <text id="_1" data-name="1" transform="translate(0 22)" fill="#fff" font-size="29.148" font-family="MyriadPro-Bold, Myriad Pro" font-weight="700"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+</svg>
